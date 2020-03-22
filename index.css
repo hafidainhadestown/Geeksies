@@ -1,0 +1,15 @@
+h1 {
+    color: cornflowerblue;
+    font-size: 50px;
+    text-align: center;
+}
+#banniere
+{
+    height: 20%; /* La bannière fera 20% de la hauteur de la page... */
+    width: 100%; /* et 100% de la largeur. */
+    background-image : url("https://i.pinimg.com/originals/70/6f/28/706f281185a1aaf62f59f7abbb76bdc1.png");
+    background-size: cover;
+    text-align: center;
+
+
+}
